@@ -2,9 +2,10 @@
 A project on transformers based multi-modality sensing in 60 GHz mmWave beamforming for connected vehicles.
 
 ### Paper:
-The codes are implemented for the following paper: <br>
+The codes are implemented for the following papers: <br>
 
 >  M.B. Mollah, H. Wang, M.A. Karim, H. Fang, “Multi-Modal Sensing and Fusion in mmWave Beamforming for Connected Vehicles: A Transformer Based Framework,” IEEE Transactions on Vehicular Technology, pp. 1-12, 2025. (Major Revision).
+
 > M.B. Mollah, H. Wang, H. Fang, “Multi-Modal Sensing Aided mmWave Beamforming for V2V Communications with Transformers,” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, 2025, pp. 1-6. (Accepted)
 
 ### Citatation:
