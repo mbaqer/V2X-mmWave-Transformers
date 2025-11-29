@@ -19,7 +19,6 @@ The codes are implemented for the following papers: <br>
   number={},
   pages={1-14}
 }
-```
 @inproceedings{mollah2025transformers,
   title={Multi-Modal Sensing Aided mm{W}ave Beamforming for {V}2{V} Communications with Transformers}, 
   author={Mollah, Muhammad Baqer and Wang, Honggang and Fang, Hua},
