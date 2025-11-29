@@ -29,8 +29,6 @@ The codes are implemented for the following papers: <br>
 }
 ```
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/10949645
-
 Datasets: https://www.deepsense6g.net/scenarios/ <br>
 
 Feel free to conctact: m.m.baqer@ieee.org
